@@ -1,10 +1,12 @@
-# Servicio Rest para manejo de varibales basicas
+# Ejemplo de servidor Eureka 
 
-## Contiene
- **CRUD para la tabla customers id,name,phone**
- **Servicio REST para CRUD**
- **Con Swagger para documentacion**
- **Cliente Eureka para obviar puerto de enlace**
+ Eureka se comporta como servidor, 
+el objetivo es registrar y localizar microservicios existentes, 
+informar de su localización, su estado y datos relevantes de cada uno de ellos. 
+Además, nos facilita el balanceo de carga y tolerancia a fallos.
+
+Spring Cloud Netflix, nos proporciona una fácil integración con el proyecto 
+Netflix OSS (Open Source Software) para aplicaciones Spring Boot.
  
 
 
